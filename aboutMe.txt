@@ -1,0 +1,4 @@
+name: Kyle Fenole
+major: COEN
+year: 2022
+hobbies: video games
